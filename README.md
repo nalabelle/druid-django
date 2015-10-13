@@ -1,3 +1,2 @@
-# druid-dash
+# druid-django
 Backend API for Druid in DRF
-with Dashboard for queries and visualization
